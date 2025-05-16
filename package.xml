@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-model
+  href="http://download.ros.org/schema/package_format3.xsd"
+  schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>example_ros_pkg</name>
+  <version>0.0.1</version>
+  <description>Example ROS package for testing</description>
+
+  <license>N/A</license>
+  <maintainer email="8390204+at-wat@users.noreply.github.com">Atsushi Watanabe</maintainer>
+  <author email="8390204+at-wat@users.noreply.github.com">Atsushi Watanabe</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>

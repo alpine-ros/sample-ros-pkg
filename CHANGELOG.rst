@@ -2,6 +2,11 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.5 (2025-06-04)
+------------------
+* Add release workflow (`#15 <https://github.com/alpine-ros/sample-ros-pkg/issues/15>`_)
+* Contributors: Atsushi Watanabe
+
 0.0.4 (2025-06-04)
 ------------------
 * Fix package name (`#11 <https://github.com/alpine-ros/sample-ros-pkg/issues/11>`_)

@@ -1,0 +1,17 @@
+name: release
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  packages: read
+  issues: write
+  pull-requests: write
+
+jobs:
+  test:
+    uses: alpine-ros/alpine-ros-test-workflow/.github/workflows/auto-release.yaml@main
+    secrets:
+      token: ${{ secrets.AR_GITHUB_TOKEN }}

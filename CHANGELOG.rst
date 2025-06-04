@@ -2,8 +2,9 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-0.0.2 (2025-06-04)
-------------------
+Forthcoming
+-----------
+* Fix release candidate workflow (`#6 <https://github.com/alpine-ros/sample-ros-pkg/issues/6>`_)
 * Trigger release candidate by reopen (`#5 <https://github.com/alpine-ros/sample-ros-pkg/issues/5>`_)
 * Add initial CHANGELOG.rst (`#4 <https://github.com/alpine-ros/sample-ros-pkg/issues/4>`_)
 * Fix token name (`#3 <https://github.com/alpine-ros/sample-ros-pkg/issues/3>`_)

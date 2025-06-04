@@ -11,7 +11,7 @@ permissions:
 jobs:
   test:
     if: startsWith(github.event.issue.title, 'Release ')
-    uses: alpine-ros/alpine-ros-test-workflow/.github/workflows/ros1-release-candidate.yaml@main
+    uses: alpine-ros/alpine-ros-ci-workflows/.github/workflows/ros1-release-candidate.yaml@main
     with:
       release-title: ${{ github.event.issue.title }}
       branch: main

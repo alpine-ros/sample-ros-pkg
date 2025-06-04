@@ -1,0 +1,20 @@
+name: release
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    uses: alpine-ros/alpine-ros-ci-workflows/.github/workflows/alpine-ros1-release@main
+    with:
+      release-ref: ${{ github.event.release.tag_name }}
+      release-repo-slug: alpine-ros-bot/sample-ros-pkg-release
+      rosdistro-fork-slug: alpine-ros-bot/rosdistro1
+      git-user: alpine-ros-bot
+      git-email: 214657941+alpine-ros-bot@users.noreply.github.com
+      dry-run: false
+    secrets:
+      token: ${{ secrets.BOT_GITHUB_TOKEN }}

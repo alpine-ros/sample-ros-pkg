@@ -20,7 +20,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: open pull-request
         env:
-          GITHUB_TOKEN: ${{ secrets.BLOOM_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.AR_GITHUB_TOKEN }}
         run: |
           gh pr create \
             --base main \

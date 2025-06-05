@@ -2,8 +2,8 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.13 (2025-06-05)
+-------------------
 * Specify source branch (`#34 <https://github.com/alpine-ros/sample-ros-pkg/issues/34>`_)
 * Contributors: Atsushi Watanabe
 

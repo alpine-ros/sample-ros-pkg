@@ -2,6 +2,11 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.13 (2025-06-05)
+-------------------
+* Specify source branch (`#34 <https://github.com/alpine-ros/sample-ros-pkg/issues/34>`_)
+* Contributors: Atsushi Watanabe
+
 0.0.12 (2025-06-05)
 -------------------
 * Separate rosdistro1 PR token (`#31 <https://github.com/alpine-ros/sample-ros-pkg/issues/31>`_)

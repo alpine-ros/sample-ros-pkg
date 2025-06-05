@@ -2,8 +2,8 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.14 (2025-06-05)
+-------------------
 * Minimize workflow permissions (`#38 <https://github.com/alpine-ros/sample-ros-pkg/issues/38>`_)
 * Update workflow names (`#37 <https://github.com/alpine-ros/sample-ros-pkg/issues/37>`_)
 * Contributors: Atsushi Watanabe

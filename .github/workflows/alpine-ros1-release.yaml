@@ -18,3 +18,4 @@ jobs:
       dry-run: false
     secrets:
       token: ${{ secrets.BOT_GITHUB_TOKEN }}
+      token-pr: ${{ secrets.PR_GITHUB_TOKEN }}

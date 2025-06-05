@@ -4,7 +4,7 @@
   schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
   <name>sample_ros_pkg</name>
-  <version>0.0.8</version>
+  <version>0.0.9</version>
   <description>Sample ROS package for testing</description>
 
   <license>N/A</license>

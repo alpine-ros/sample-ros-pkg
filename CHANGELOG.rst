@@ -2,8 +2,8 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.12 (2025-06-05)
+-------------------
 * Separate rosdistro1 PR token (`#31 <https://github.com/alpine-ros/sample-ros-pkg/issues/31>`_)
 * Contributors: Atsushi Watanabe
 

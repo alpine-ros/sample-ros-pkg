@@ -2,6 +2,11 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.15 (2025-06-09)
+-------------------
+* Fix bot comment permission (`#41 <https://github.com/alpine-ros/sample-ros-pkg/issues/41>`_)
+* Contributors: Atsushi Watanabe
+
 0.0.14 (2025-06-05)
 -------------------
 * Minimize workflow permissions (`#38 <https://github.com/alpine-ros/sample-ros-pkg/issues/38>`_)

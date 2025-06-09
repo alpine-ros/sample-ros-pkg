@@ -2,6 +2,9 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.16 (2025-06-09)
+-------------------
+
 0.0.15 (2025-06-09)
 -------------------
 * Fix bot comment permission (`#41 <https://github.com/alpine-ros/sample-ros-pkg/issues/41>`_)

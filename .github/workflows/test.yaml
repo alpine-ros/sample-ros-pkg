@@ -16,5 +16,6 @@ jobs:
     uses: alpine-ros/alpine-ros-ci-workflows/.github/workflows/ros1.yaml@main
     with:
       enable-bot-comment: true
+      enable-codecov: true
     secrets:
       bot-comment-token: ${{ secrets.GITHUB_TOKEN }}

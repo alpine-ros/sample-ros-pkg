@@ -2,6 +2,11 @@
 Changelog for package example_ros_pkg
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.17 (2025-07-03)
+-------------------
+* Add sample test (`#48 <https://github.com/alpine-ros/sample-ros-pkg/issues/48>`_)
+* Contributors: Atsushi Watanabe
+
 0.0.16 (2025-06-09)
 -------------------
 
